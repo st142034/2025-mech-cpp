@@ -4,7 +4,7 @@ int main()
 {
     int n = 0;
     scanf("%d", &n);
-    printf("%d\n", (n+9)/10);
+    printf("%d\n", (n + 9) / 10);
     return 0;
 }
 
