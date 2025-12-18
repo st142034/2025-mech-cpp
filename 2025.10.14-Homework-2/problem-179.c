@@ -34,10 +34,10 @@ int main(int argc, char** argv)
 		{
 			printf("-");
 		}
-			if (abs(b) != 1)
-			{
-				printf("%d", abs(b));
-			}
+		if (abs(b) != 1)
+		{
+			printf("%d", abs(b));
+		}
 		printf("x");
 	}
 	if (c != 0)
@@ -50,10 +50,10 @@ int main(int argc, char** argv)
 		{
 			printf("+");
 		}
-			if (abs(c) != 1)
-			{
-				printf("%d", abs(c));
-			}
+		if (abs(c) != 1)
+		{
+			printf("%d", abs(c));
+		}
 		printf("y");
 	}
 	return 0;
